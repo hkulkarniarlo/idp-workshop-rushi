@@ -21,7 +21,7 @@ metadata:
     - yournamehere
 spec:
   type: service
-  owner: change-value
+  owner: rushi
   lifecycle: experimental
 #  system: Demo
   dependsOn:
