@@ -25,7 +25,7 @@ spec:
   lifecycle: experimental
 #  system: Demo
   dependsOn:
-    - component:default/hkulkarni-service
+    - component:default/rushi-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
